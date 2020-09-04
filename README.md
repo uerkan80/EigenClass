@@ -1,6 +1,5 @@
 # EigenClass
 A Precise and Stable Machine Learning Algorithm: Eigenvalue Classification (EigenClass)
-A Precise and Stable Machine Learning Algorithm: Eigenvalue Classification (EigenClass)
 
 Citation:
 
